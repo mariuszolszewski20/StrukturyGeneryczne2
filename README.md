@@ -1,0 +1,2 @@
+# StrukturyGeneryczne2
+Struktury 
